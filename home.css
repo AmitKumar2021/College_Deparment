@@ -1,0 +1,15 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+#cont
+{
+	border: 1px solid red;
+	width: 750px;
+	height: 100px;
+	margin: auto;
+
+
+}
